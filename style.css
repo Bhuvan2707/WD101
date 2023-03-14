@@ -1,0 +1,89 @@
+body{
+    background: #f9e7ff;
+    color: #ff0000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 10px;
+    padding: 10px;
+}
+
+h1{
+    font-size: 2em;
+    font-weight: 700;
+    margin: 0 0 10px 0;
+    text-align: center;
+}
+form{
+   display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input{
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    font-size: 1em;
+    margin: 5px;
+    padding: 5px;
+    width: 300px;
+}
+
+button{
+    background: #ff0000;
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 1em;
+    margin: 5px;
+    padding: 5px;
+    width: 300px;
+}
+
+label{
+    font-size: 1em;
+    margin: 5px;
+    padding: 5px;
+}
+
+table{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+tr{
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    width: 300px;
+}
+
+th{
+    background: #ff0000;
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 1em;
+    margin: 5px;
+    padding: 5px;
+    width: 300px;
+}
+
+td{
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    font-size: 1em;
+    margin: 5px;
+    padding: 5px;
+    width: 300px;
+}
+
+.text-center{
+    text-align: center;
+}
+
